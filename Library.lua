@@ -4,7 +4,7 @@ Yun Devs: zomb#7741, nives#0001, loot#1337
 Special Thanks To: Qw#1549
 --]]
 function initLibrary()
-    local folderName = "epic config folder"
+    local folderName = "Percocet-Utilities"
 
 
     if not isfolder(folderName) then
